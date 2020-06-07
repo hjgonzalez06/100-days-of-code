@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 
 ## Log
 
-### Day 1: 04/06/202
+### Day 1: 04/06/2020
 
 **Today's Progress:** Set up the development tools and the "Coming soon..." page.
 
@@ -12,10 +12,18 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
 
-### Day 2: 05/06/202
+### Day 2: 05/06/2020
 
-**Today's Progress:**  Create a "Develop" branch, remove Bootstrap framework & start to add a Grid View from scratch.
+**Today's Progress:**  Create a "Develop" branch, remove Bootstrap framework and start to add a Grid View from scratch.
 
 **Thoughts:** I decided to remove Bootstrap framework because "basic is basic". Instead, I'm adding a Grid View from scratch; something I've never done before but I'm excited to do to improve my tech skills in CSS3. Hope it works the way I'm thinking it will.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 3: 06/06/2020
+
+**Today's Progress:**  Finish to add the Grid View, write Media Queries breakpoints and create the website's Header.
+
+**Thoughts:** I was doing my personal website's header. The Flexbox display is giving me a bit of a problem, but I'm working it out. I have to say that my raw CSS3 skills are a littli rusty. But, luckily, I'm sure with this challenge I'll be reviewing it. Also, I wrote the Media Queries breakpoints for Responsive Design, but I'll work with it at last.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
