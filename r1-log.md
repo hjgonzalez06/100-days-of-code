@@ -27,3 +27,11 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Thoughts:** I was doing my personal website's header. The Flexbox display is giving me a bit of a problem, but I'm working it out. I have to say that my raw CSS3 skills are a littli rusty. But, luckily, I'm sure with this challenge I'll be reviewing it. Also, I wrote the Media Queries breakpoints for Responsive Design, but I'll work with it at last.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 4: 07/06/2020
+
+**Today's Progress:**  Fix a problem with Header elements display & add the website's Footer.
+
+**Thoughts:** Well, I solved the problem with Flexbox display on Header, although it ended up being something else (as it usually happens). Also, I added the website's footer. Don't know why, but I like to do it before having the main content of the website up. What can I tell you, me and my stuff.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
