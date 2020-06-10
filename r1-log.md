@@ -43,3 +43,11 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Thoughts:** I started to adding the Welcome section of my website. The  background of this section is giving me a bit of a problem, but I think to know the reason why it's happening and I'm working it out. In addition, I deleted the files and folders that I won't use in the website anymore.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 6: 09/06/2020
+
+**Today's Progress:**  Finish to add the Welcome section.
+
+**Thoughts:** Today, I managed to solve the problem I had by placing a video as the background of the welcome section of my page. I also added the welcome text and styled it. Tomorrow I will be starting with the personal information section. Now, I feel more confident.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
