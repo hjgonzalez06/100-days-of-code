@@ -51,3 +51,11 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Thoughts:** Today, I managed to solve the problem I had by placing a video as the background of the welcome section of my page. I also added the welcome text and styled it. Tomorrow I will be starting with the personal information section. Now, I feel more confident.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 7: 11/06/2020
+
+**Today's Progress:**  Start the layout of the About section.
+
+**Thoughts:** Today, I went back to this challenge after a one-day break due to work issues. I started the layout of the About section of my personal website. One important thing I haven't done yet is to write the information I'm going to put in it. So far, so good. Just a little busy preparing the classes I'll be teaching.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
