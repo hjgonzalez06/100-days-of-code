@@ -67,3 +67,11 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Thoughts:** I'm still working on the design of the About section. I had some ideas about how I wanted to display the information in that section, but now I feel I'm not very sure about it. Nevertheless, I know I'll solve it soon; this creative blockage is only temporary. On the other hand, I added the Download CV option (just need to place the file) and started to work on the Services section layout.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 9: 13/06/2020
+
+**Today's Progress:**   Re-evaluate design and information display of the website & make minor changes to the code.
+
+**Thoughts:** I'm still working on the layout of my website. I know I've said the same in my last 2 days, but I've been re-evaluating certain aspects about the design & the information that'll be displayed on the website. Finally, I think I'm coming out of creative blockage.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
