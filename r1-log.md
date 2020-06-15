@@ -75,3 +75,11 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Thoughts:** I'm still working on the layout of my website. I know I've said the same in my last 2 days, but I've been re-evaluating certain aspects about the design & the information that'll be displayed on the website. Finally, I think I'm coming out of creative blockage.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 10: 14/06/2020
+
+**Today's Progress:**   Finish to layout the About section of the website.
+
+**Thoughts:** Finally, I finished the layout of the About section of my personal website. However, I still have to finish writing some of the information that I am going to put in that section; but now I feel more confident about how it'll be displayed. Also, I need to look for a few images that are related and represent my soft skills.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
