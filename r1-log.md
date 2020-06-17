@@ -83,3 +83,11 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Thoughts:** Finally, I finished the layout of the About section of my personal website. However, I still have to finish writing some of the information that I am going to put in that section; but now I feel more confident about how it'll be displayed. Also, I need to look for a few images that are related and represent my soft skills.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 11: 16/06/2020
+
+**Today's Progress:**   Finish to layout the Services section of the website.
+
+**Thoughts:** I came back, after taking a little break to catch up on the classes I teach. Well, I finished to layout the Services section, but I still need to replace de "Lorem Ipsum" text with proper information for the section (same for almost the whole website). I think I'll save it for last. Also, I need to look for more icons & images that are appropriate to what I want to reflect. In addition, I need to look for a way to implement contact forms on a static website.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
