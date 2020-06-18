@@ -91,3 +91,11 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Thoughts:** I came back, after taking a little break to catch up on the classes I teach. Well, I finished to layout the Services section, but I still need to replace de "Lorem Ipsum" text with proper information for the section (same for almost the whole website). I think I'll save it for last. Also, I need to look for more icons & images that are appropriate to what I want to reflect. In addition, I need to look for a way to implement contact forms on a static website.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 12: 17/06/2020
+
+**Today's Progress:**   Work on the layout of the Work Process section of the website.
+
+**Thoughts:** I made the layout of the Work Process section of my personal website. But just when I finished it, I came up with a better design for it and I will be changing it tomorrow. Furthermore, I did some research about contact forms on static websites, I just need to evaluate them and deciding on one. Nevertheless, I will look into it further.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
