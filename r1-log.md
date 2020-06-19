@@ -99,3 +99,11 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Thoughts:** I made the layout of the Work Process section of my personal website. But just when I finished it, I came up with a better design for it and I will be changing it tomorrow. Furthermore, I did some research about contact forms on static websites, I just need to evaluate them and deciding on one. Nevertheless, I will look into it further.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 13: 18/06/2020
+
+**Today's Progress:**   Change the layout of the Work Process section of the website.
+
+**Thoughts:** As I said I would do, today I changed the design of the Work Process section of my personal website. I feel more comfortable now with the layout of the information in that section. Also, I applied a bit of responsiveness in advance, although I will be focusing on that at the end.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
