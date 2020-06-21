@@ -115,3 +115,11 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Thoughts:** I started adding the Contact section of my personal website. For now,  I've only done the contact form, for which I ended up using Formspree because it's a static website. I have to admit that I need to configure it a bit more; for example, implementing AJAX to avoid the visitor to be sent to another page. Also, I need to add an highlighting the reasons why the visitor could contact me and moving the links to my social networks from footer to this section.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 15: 20/06/2020
+
+**Today's Progress:**   Finish to add the Contact section of the website.
+
+**Thoughts:** I finished doing the Contact section of my personal website today. I've even been adding new information to others section. To finish with the layout of the website, I only need to add the Projects section and a separator that I want to put in somewhere. And then it's my turn to apply JS and responsiveness.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
