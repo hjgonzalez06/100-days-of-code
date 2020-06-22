@@ -123,3 +123,11 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Thoughts:** I finished doing the Contact section of my personal website today. I've even been adding new information to others section. To finish with the layout of the website, I only need to add the Projects section and a separator that I want to put in somewhere. And then it's my turn to apply JS and responsiveness.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 16: 21/06/2020
+
+**Today's Progress:**   Work on the Projects section of the website.
+
+**Thoughts:** I startd to develop the Projects section of my personal website today. I've managed to layout almost everything. I'm just stuck on getting a two-elements overlay effect to work. I think I'll have to do some research about it.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
