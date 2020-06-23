@@ -128,6 +128,14 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 
 **Today's Progress:**   Work on the Projects section of the website.
 
-**Thoughts:** I startd to develop the Projects section of my personal website today. I've managed to layout almost everything. I'm just stuck on getting a two-elements overlay effect to work. I think I'll have to do some research about it.
+**Thoughts:** I started to develop the Projects section of my personal website today. I've managed to layout almost everything. I'm just stuck on getting a two-elements overlay effect to work. I think I'll have to do some research about it.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 17: 22/06/2020
+
+**Today's Progress:**   Finsih to add the Projects section of the website & add the sections' links to the Navbar.
+
+**Thoughts:** Today, I managed to getting two-elements overlay effect to work. In the end, it was a single line of code I needed to do it. Also, I added the links to navigate my personal website to the navbar. So finally, I finished the whole layout and it feels awesome. Now it's the turn to apply JS where needed.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
