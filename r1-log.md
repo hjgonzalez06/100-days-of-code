@@ -134,7 +134,7 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 
 ### Day 17: 22/06/2020
 
-**Today's Progress:**   Finsih to add the Projects section of the website & add the sections' links to the Navbar.
+**Today's Progress:**   Finish to add the Projects section of the website & add the sections' links to the Navbar.
 
 **Thoughts:** Today, I managed to getting two-elements overlay effect to work. In the end, it was a single line of code I needed to do it. Also, I added the links to navigate my personal website to the navbar. So finally, I finished the whole layout and it feels awesome. Now it's the turn to apply JS where needed.
 
@@ -145,5 +145,13 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Today's Progress:**   Refreshing knowledges about CSS3/JS animations and effects.
 
 **Thoughts:** I've been working on the animations and effects with CSS3 and JS. More than writing and adding code for my website, I'm first refreshing my knowledge by doing little practices. And so far, I don't think I've done that badly. Anyway, I'm seriously thinking about using the libraries that already exist. This is the reason why there are no commits in the repository of my personal website today.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 19: 24/06/2020
+
+**Today's Progress:**   Add filter funcionality to the About section & apply the animations to the website.
+
+**Thoughts:** I added the animations to the website with AOS library. I think they look great and I like them quiet a bit. Also, I typed some #js code that allow to filter, in a certain way, the information shown in About section, so it seems that this information is replaced by another one when certain links located in the About section are clicked.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
