@@ -155,3 +155,11 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Thoughts:** I added the animations to the website with AOS library. I think they look great and I like them quiet a bit. Also, I typed some #js code that allow to filter, in a certain way, the information shown in About section, so it seems that this information is replaced by another one when certain links located in the About section are clicked.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 20: 26/06/2020
+
+**Today's Progress:**   Apply AJAX to submit data from the contact form of the website.
+
+**Thoughts:** I have made the AJAX code to handle the data submitting from the contact form of my personal website. I used jQuery with Promises, because the truth is that since I discovered the last ones I love them. I wanted to implement Axios library, but in the end I didn't include it. Now I want to make some changes in the behavior of the Navbar and then continue with the responsiveness.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
