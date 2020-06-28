@@ -163,3 +163,11 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Thoughts:** I have made the AJAX code to handle the data submitting from the contact form of my personal website. I used jQuery with Promises, because the truth is that since I discovered the last ones I love them. I wanted to implement Axios library, but in the end I didn't include it. Now I want to make some changes in the behavior of the Navbar and then continue with the responsiveness.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 21: 27/06/2020
+
+**Today's Progress:**   Add the Hide on Scroll effect to the navbar & work on the Meta tags of the website.
+
+**Thoughts:** Today, I worked a little on the Meta tags of my personal website. I still have to set up the Meta tags for appearance when I post the link on social networks. In addition, I applied the Hide on Scroll effect to the navigation bar and also slightly changed its style. I think I don't need to do anything with JS anymore, so now it's time to apply the responsive design.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
