@@ -171,3 +171,11 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Thoughts:** Today, I worked a little on the Meta tags of my personal website. I still have to set up the Meta tags for appearance when I post the link on social networks. In addition, I applied the Hide on Scroll effect to the navigation bar and also slightly changed its style. I think I don't need to do anything with JS anymore, so now it's time to apply the responsive design.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 22: 28/06/2020
+
+**Today's Progress:**   Modify the Hide on Scroll effect, implement 2 validations to AJAX code & add the PDF to the Download CV button.
+
+**Thoughts:** Actually, I didn't do much on my personal website today. I made some small modifications in the Hide on Scroll effect, then I implemented 2 security validations in the AJAX code execution and finally I added the PDF document with my CV, so it can be downloaded from the website. Oh, and I also added some alerts that use the SweetAlerts2 library. That was all.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
