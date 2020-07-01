@@ -179,3 +179,11 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Thoughts:** Actually, I didn't do much on my personal website today. I made some small modifications in the Hide on Scroll effect, then I implemented 2 security validations in the AJAX code execution and finally I added the PDF document with my CV, so it can be downloaded from the website. Oh, and I also added some alerts that use the SweetAlerts2 library. That was all.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 23: 30/06/2020
+
+**Today's Progress:**   Implement a reset function after submitting the contact form & start to add new images and my own information.
+
+**Thoughts:** Well, today I implemented a function at the end of the AJAX execution that resets the contact form after submitting the data. Also, I tried to add an underline effect to the navbar links, but later I changed my mind (largely because I didn't get it right). Finally, I added some new images and replaced parts of the Lorem Ipsum text with my own content. Go ahead!
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
