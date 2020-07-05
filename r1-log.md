@@ -187,3 +187,19 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Thoughts:** Well, today I implemented a function at the end of the AJAX execution that resets the contact form after submitting the data. Also, I tried to add an underline effect to the navbar links, but later I changed my mind (largely because I didn't get it right). Finally, I added some new images and replaced parts of the Lorem Ipsum text with my own content. Go ahead!
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 24: 02/07/2020
+
+**Today's Progress:**   Write new information to add to the sections & research on multi-language websites.
+
+**Thoughts:** Well, today's work I focused more on the following aspects: write the information to be displayed in the sections, get more images to place in the sections and research on multi-language website development. I'll be back to work on code later.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 25: 04/07/2020
+
+**Today's Progress:**   Add the navbar toggler and start to work on the website's responsiveness.
+
+**Thoughts:** The first quarter of my 100 Days Of Code challenge has passed and I am very proud of what I have achieved on my personal website. Today, I added a toggler button to the navbar; that it displays when accessed from a mobile device. That means that I have officially started working on the last part of my website: responsiveness. Thanks to the code I've written, I don't think it will give me as much work as I thought it would.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
