@@ -203,3 +203,11 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Thoughts:** The first quarter of my 100 Days Of Code challenge has passed and I am very proud of what I have achieved on my personal website. Today, I added a toggler button to the navbar; that it displays when accessed from a mobile device. That means that I have officially started working on the last part of my website: responsiveness. Thanks to the code I've written, I don't think it will give me as much work as I thought it would.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 26: 07/07/2020
+
+**Today's Progress:**   Work on the navbar toggler functionality & continue with responsiveness for mobile version.
+
+**Thoughts:** Today, I gave funcionality to the navbar toggler to show & hide navigation links in mobile version when a click event is activated. Also, I advanced quite a bit with the mobile responsiveness; I'm just missing a few details. I'm excited about what I've got so far. ¡I'm almost ready to finally deploy my own website!
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
