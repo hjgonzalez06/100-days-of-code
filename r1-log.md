@@ -219,3 +219,11 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Thoughts:** Today, I corrected some bugs that, in the end, were caused by the animations I implemented in the website. Also, I finished giving the functionality to the navbar toggler. Finally, I can say that I finished applying responsiveness for small mobile devices. Now I will get to work with the rest of the responsiveness. It's getting closer all the time!
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 28: 10/07/2020
+
+**Today's Progress:**    Fix minor bugs in the CSS of the mobile version of the website.
+
+**Thoughts:** Reviewing what I did yesterday with the small mobile device responsiveness, I discovered some minor bugs. So today I worked on fixing those bugs and now I think I've managed to solve all of them. I checked them on several screen sizes smaller than 576px to confirm that I did indeed fix them. I have to take into account to review the events that I handle with JS in each of the breakpoints that I use for responsiveness.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
