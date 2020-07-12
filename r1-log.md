@@ -227,3 +227,11 @@ The log of my #100DaysOfCode challenge. Started on June 04, Thursday, 2020.
 **Thoughts:** Reviewing what I did yesterday with the small mobile device responsiveness, I discovered some minor bugs. So today I worked on fixing those bugs and now I think I've managed to solve all of them. I checked them on several screen sizes smaller than 576px to confirm that I did indeed fix them. I have to take into account to review the events that I handle with JS in each of the breakpoints that I use for responsiveness.
 
 **Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
+
+### Day 29: 11/07/2020
+
+**Today's Progress:**    Work on the content of the website.
+
+**Thoughts:** Well, today I didn't touch code, because I preferred to work on the content of my personal website. I plan to finish it before continuing with the responsibility, to avoid problems in the future and to stop procrastinating it. I must say that I didn't think it would be so difficult to write how you are going to present yourself to the world.
+
+**Link to work:** https://github.com/hjgonzalez06/hjgonzalez06.github.io
